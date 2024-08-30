@@ -1,6 +1,6 @@
 # Red-Teaming-LLM-Application
 
-##Overview of LLM Vulnerabilities
+## Overview of LLM Vulnerabilities
 This repository contains the first lesson of the Red Teaming LLM Application course, focusing on understanding the vulnerabilities in Large Language Models (LLMs). The lesson provides a comprehensive overview of key vulnerability categories, including bias and stereotypes and sensitive information disclosure.
 
 ### Lesson 1: Overview of LLM Vulnerabilities
